@@ -1,7 +1,7 @@
 export const personalData = {
   name: "MASAYOSHI YAMADA",
   profile: '/profile.png',
-  designation: "Senior Full Stack Engineer Specializing in Solutions for FinTech, HealthTech, EdTech, Digital Publishing, and Online Retail.",
+  designation: "Senior Full Stack Engineer Specializing in Solutions for FinTech, HealthTech, EdTech, Digital Publishing, and Online Retail",
   description: "Hi! I'm Masayoshi Yamada — a full stack engineer who builds fast backends, clean UIs, and sleeps soundly because of test coverage. I speak JavaScript fluently, automate the boring stuff, and ship code that scales (and rarely cries in prod). 9+ years in FinTech, SaaS, and keeping CI green. Let’s build something solid.",
   email: 'yamadamasayoshi282@gmail.com',
   phone: '+14074369174',
