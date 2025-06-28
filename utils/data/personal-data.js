@@ -8,10 +8,10 @@ export const personalData = {
   address: 'New York, NY, USA',
   github: 'https://github.com/caraX0',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-898422370/',
+  linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-090598135/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1oXykpFnleXDkB7NDLYJ2abNdlpc_dvpG/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/123x55NVjpetQQhf5L7bhyDT-QXZ8-RQC/view?usp=drive_link"
 }
