@@ -5,7 +5,7 @@ export const personalData = {
   description: "Hi! I'm Masayoshi Yamada — a full stack engineer who builds fast backends, clean UIs, and sleeps soundly because of test coverage. I speak JavaScript fluently, automate the boring stuff, and ship code that scales (and rarely cries in prod). 9+ years in FinTech, SaaS, and keeping CI green. Let’s build something solid.",
   email: 'yamadamasayoshi282@gmail.com',
   phone: '+14074369174',
-  address: 'Ridgefield Park,, NJ, USA',
+  address: 'Ridgefield Park, NJ, USA',
   github: 'https://github.com/caraX0',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-7bba82372/',
