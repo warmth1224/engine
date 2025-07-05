@@ -8,7 +8,7 @@ export const personalData = {
   address: 'New Jersey, NJ, USA',
   github: 'https://github.com/caraX0',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-090598135/',
+  linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-7bba82372/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
