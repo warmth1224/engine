@@ -6,7 +6,7 @@ export const personalData = {
   email: 'yamadamasayoshi282@gmail.com',
   phone: '+14074369174',
   address: 'Ridgefield Park, NJ, USA',
-  github: 'https://github.com/caraX0',
+  github: 'https://github.com/warmth1224',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-7bba82372/',
   twitter: 'https://twitter.com/said7388',
